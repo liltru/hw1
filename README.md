@@ -1,13 +1,13 @@
-#Привет!#
+Привет!
 
-###Меня зовут#
+Меня зовут
 
-*_Трусова Елизавета Юрьевна_, 18 лет
+_Трусова Елизавета Юрьевна_, 18 лет
 
-*Россия
-*Москва 
-      *+7 915 493-15-03 
-      *liza-trusova@mail.ru
+Россия
+Москва 
+      +7 915 493-15-03 
+      liza-trusova@mail.ru
       <https://vk.com/liltru> 
 >I am not a product of my circumstances. I am a product of my decisions. (Stephen Covey)
 
@@ -22,3 +22,12 @@
 Цифровая грамотность|Видео        |Грамматика
                     |ВКБ          |Грамматика
 Китайский           |Фонетика     |ВКБ
+
+
+
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |

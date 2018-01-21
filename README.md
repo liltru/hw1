@@ -28,6 +28,6 @@ _Трусова Елизавета Юрьевна_, 18 лет
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
-| col 3 is      | some wordy text |     **$1600** |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+|Цифровая грамотность     | some wordy text |     **$1600** |
+| col 2 is      | Китайский        |         $12   |
+| Цифровая грамотность | are neat        |        ~~$1~~ |
